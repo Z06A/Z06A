@@ -1,9 +1,9 @@
-<h1 align="center"><img src="https://github.com/Z06A/Z06A/blob/main/Hi.gif" width="26px"> Hallo Dunial! &nbsp;<img src="https://github.com/Z06A/Z06A/blob/main/Earth.gif" width="24px"></h1>
+<h1 align="center"><img src="https://github.com/Yg4rF7Ant0/Yg4rF7Ant0/blob/main/Hi.gif" width="26px"> Hello World! &nbsp;<img src="https://github.com/Yg4rF7Ant0/Yg4rF7Ant0/blob/main/Earth.gif" width="24px"></h1>
 
 <h3 align="center"> 👨 💻Saya Seorang Pelajar </h3>
 <p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=Z06A&theme=radical">
-    <img src="https://github-profile-trophy.vercel.app/?username=Z06A&theme=radical&no-bg=true" alt="Z06A"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=Yg4rF7Ant0&theme=radical">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yg4rF7Ant0&theme=radical&no-bg=true" alt="Yg4rF7Ant0"/>
   </a>
 </p>
 
@@ -30,13 +30,13 @@
 <p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="buruh pelabuhan" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> </p>
 -->
 <div style="display: flex;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z06A&show_icons=true&locale=en&layout=compact&theme=dark" alt="Z06A" width="300" height="200"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yg4rF7Ant0&show_icons=true&locale=en&layout=compact&theme=dark" alt="Yg4rF7Ant0" width="300" height="200"/>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Z06A&show_icons=true&locale=en&theme=dark" alt="Z06A" width="400" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yg4rF7Ant0&show_icons=true&locale=en&theme=dark" alt="Yg4rF7Ant0" width="400" height="200"/>
 </div>
 <!--
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z06A&theme=dark" alt="Z06A" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yg4rF7Ant0&theme=dark" alt="Yg4rF7Ant0" width="500"/>
 </div>
 -->
 
@@ -45,7 +45,7 @@
 
 
 <div align="center">
-<h3> Terhubung Dengan Saya<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Z06A/Z06A/blob/main/Handshake.gif" width="60"></a>
+<h3> Terhubung Dengan Saya<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Yg4rF7Ant0/Yg4rF7Ant0/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 <p align="center">
     <a href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
