@@ -1,5 +1,3 @@
-# Yoga
-
 <h1 align="center"><img src="https://github.com/Z06A/Z06A/blob/main/Hi.gif" width="26px"> Hallo Dunial! &nbsp;<img src="https://github.com/Z06A/Z06A/blob/main/Earth.gif" width="24px"></h1>
 
 <h3 align="center"> 👨 💻Saya Seorang Pelajar </h3>
