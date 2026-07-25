@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/Yg4rF7Ant0/Yg4rF7Ant0/blob/main/Hi.gif" width="26px"> Hello World! &nbsp;<img src="https://github.com/Yg4rF7Ant0/Yg4rF7Ant0/blob/main/Earth.gif" width="24px"></h1>
 
-<h3 align="center"> 👨 💻Saya Seorang Pelajar </h3>
+<h3 align="center"> 👨 Saya Seorang Pelajar TI 💻 </h3>
 <p align="left">
   <a href="https://github-profile-trophy.vercel.app/?username=Yg4rF7Ant0&theme=radical">
     <img src="https://github-profile-trophy.vercel.app/?username=Yg4rF7Ant0&theme=radical&no-bg=true" alt="Yg4rF7Ant0"/>
